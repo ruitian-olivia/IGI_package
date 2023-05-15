@@ -1,0 +1,6 @@
+**/download_data
+**/.ipynb_checkpoints
+**/__pycache__
+
+**/ST_IGI
+setup.py
